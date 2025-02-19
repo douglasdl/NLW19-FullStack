@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root, input, button {
+  font-family: "Montserrat";
+}
+
+body {
+  background: url("images/bg.jpg") no-repeat center/cover;
+  min-height: 100vh;
+  color: white;
+}
